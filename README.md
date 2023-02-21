@@ -5,7 +5,7 @@ Codificação de Backend em Golang usando biblioteca do Gorila Mux para desenvol
 # Realize a consulta dos principais Endpoints da aplicação:
 
 /users método GET<br>
-/users/{id} método Get por Id("GET")<br>
+/users/{id} método Get por Id<br>
 /users método POST<br>
 /users/{id} método PUT<br>
 /users/{id} método por Id DELETE<br>
