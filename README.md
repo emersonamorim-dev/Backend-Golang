@@ -1,6 +1,7 @@
 # Backend-Golang
 
 Codificação de Backend em Golang usando biblioteca do Gorila Mux para desenvolvimento de API que definindo as rotas para cada endpoint da API.
+E juntamente com a implementação de Teste Unitários para Golang que ajuda a cobertura de teste para toda aplicação.
 
 # Realize a consulta dos principais Endpoints da aplicação:
 
